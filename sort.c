@@ -60,6 +60,11 @@ int main()
    {
     printf("%d ",a[i]);
 }
+<<<<<<< HEAD
     printf("world");
+=======
+    printf("hello");
+
+>>>>>>> b1
 }
 
